@@ -1,0 +1,19 @@
+name: projeto_nubank_clara_oliveira
+description: Um aplicativo Nubank simulado desenvolvido em Flutter.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/seguro-de-vida-imagem.png
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
